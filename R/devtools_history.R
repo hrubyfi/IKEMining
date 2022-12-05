@@ -1,0 +1,7 @@
+usethis::use_build_ignore("R/devtools_history.R")
+usethis::use_package("stringr")
+usethis::use_package("purrr")
+usethis::use_package("magrittr")
+usethis::use_package("dplyr")
+usethis::use_package("knitr")
+usethis::use_package("plyr")

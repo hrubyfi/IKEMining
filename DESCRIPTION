@@ -1,0 +1,19 @@
+Package: IKEMining
+Title: Tools For Effective Manipulation Of Medical Data
+Version: 0.0.1.0000
+Authors@R: 
+    person("Filip", "Hruby", , "filip.hruby@ikem.cz", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Simplifiy wrangling of medical data. Developed at IKEM.
+License: MIT + file LICENSE
+Imports:
+    dplyr,
+    knitr,
+    lubridate,
+    magrittr,
+    plyr,
+    purrr,
+    stringr
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.2
